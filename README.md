@@ -43,17 +43,6 @@ Pipeline de MLOps end-to-end para predecir si un cliente pagará a tiempo un cr�
 **Resultado:** PR-AUC 3,1x por encima del baseline
 **Stack:** `Python` `Scikit-learn` `XGBoost` `Pandas` `FastAPI` `Streamlit` `Docker` `GitHub Actions`
 
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juanma-Alvarado&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-Alvarado&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contacto
 
 <p align="left">

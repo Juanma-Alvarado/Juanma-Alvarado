@@ -1,5 +1,5 @@
-<h1 align="left">¡Hola! Soy Juan Ma Alvarado 👋</h1>
-<h3 align="left">Data Analyst Jr. & Data Scientist Jr. · Colombiano 🇨🇴</h3>
+<h1 align="left">¡Hola! Soy Juan Ma 👋</h1>
+<h3 align="left">Data Analyst Jr & Data Scientist Jr | Colombiano 🇨🇴</h3>
 
 ---
 

@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! Soy Juan Ma Alvarado 👋</h1>
 <h3 align="center">Data Analyst Jr. & Data Scientist Jr. · Córdoba, Colombia 🇨🇴</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,fastapi,docker,git,github,githubactions,vscode,linux,bash&perline=6" />
-</p>
-
 ---
 
 ### 🧭 Sobre mí

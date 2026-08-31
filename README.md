@@ -21,13 +21,13 @@ Ahora estoy buscando mi primera oportunidad como **Data Analyst** o **Data Scien
   <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,fastapi,docker,git,github,githubactions,vscode,linux,bash" />
 </p>
 
-**Otras herramientas y librerías que uso habitualmente** *(sin ícono disponible en skillicons.dev)*:
+**Otras herramientas y librerías que uso habitualmente**:
 
 `Pandas` `NumPy` `Power BI` `LightGBM` `XGBoost` `CatBoost` `Optuna` `MLflow` `Streamlit` `Scrum`
 
 **Ahora mismo estoy profundizando en:**
 
-`Inglés técnico` `<!-- TODO: agregá acá la próxima librería/herramienta que estés estudiando -->`
+`Inglés técnico`
 
 ---
 

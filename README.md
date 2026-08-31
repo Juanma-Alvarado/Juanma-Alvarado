@@ -5,11 +5,7 @@
 
 ### 🧭 Sobre mí
 
-Estudio Administración en Finanzas y Negocios Internacionales (Universidad de Córdoba) y me metí de lleno en datos: bootcamp de Ciencia de Datos en **Henry** y técnico en Procesamiento de Datos en el **SENA**. Me interesa el cruce entre negocio y modelos — traducir un ROC-AUC o una consulta SQL en una decisión que alguien realmente pueda tomar.
-
-Construí un pipeline de clasificación completo (EDA → feature engineering → modelado → calibración → API → app) para predecir intención de compra en e-commerce, y otro para estimar riesgo crediticio en un caso de Fintech, con foco en evitar *data leakage* y en monitorear el modelo una vez en producción.
-
-Ahora estoy buscando mi primera oportunidad como **Data Analyst** o **Data Scientist Jr.**, idealmente en Fintech o Consultoría. Si estás armando algo en esa línea o simplemente querés hablar de datos, escribime.
+Soy junior en el mundos de los datos, sin embargo estoy enfocado en traducir métricas técnicas complejas (como ROC-AUC o queries en SQL) en decisiones estratégicas de negocio. Combino mi formación de estudiante en Finanzas y Negocios Internacionales con el desarrollo de modelos predictivos de Machine Learning y pipelines de datos de punta a punta. 
 
 ---
 

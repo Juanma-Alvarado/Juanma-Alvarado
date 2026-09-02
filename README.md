@@ -43,7 +43,7 @@ Pipeline de MLOps end-to-end para predecir si un cliente pagarÃ¡ a tiempo un crÃ
 
 <p align="left">
   <a href="mailto:juanmanuel3alvarado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/TU-USUARIO-DE-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juanma-alvarado/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!--

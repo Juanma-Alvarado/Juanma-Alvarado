@@ -34,7 +34,7 @@ Proyecto final del bootcamp de Henry (equipo de 4, rol: Data Scientist — model
 **Resultado:** ROC-AUC 0,938 · F1 0,690
 **Stack:** `Python` `Scikit-learn` `LightGBM` `XGBoost` `CatBoost` `Optuna` `FastAPI` `Streamlit` `Docker` `MLflow` `GitHub Actions`
 
-#### 💳 [PIM5 — Modelo de riesgo crediticio](https://github.com/Juanma-Alvarado/Mlops_Pipeline)
+#### 💳 [CreditFlow](https://github.com/Juanma-Alvarado/Mlops_Pipeline)
 Pipeline de MLOps end-to-end para predecir si un cliente pagará a tiempo un crédito, combinando datos propios con información del buró de crédito. Detecté y eliminé variables con *data leakage* (una con 0,92 de correlación con el target) antes de modelar, y llevé el pipeline a producción: API en FastAPI, app de scoring en Streamlit, monitoreo de *data drift* (PSI/KS) y CI/CD con GitHub Actions, todo containerizado con Docker.
 **Resultado:** PR-AUC 3,1x por encima del baseline
 **Stack:** `Python` `Scikit-learn` `XGBoost` `Pandas` `FastAPI` `Streamlit` `Docker` `GitHub Actions`

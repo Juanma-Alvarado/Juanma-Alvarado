@@ -29,7 +29,7 @@ Soy junior en el mundo de los datos; sin embargo, estoy enfocado en traducir mé
 
 ### 🚀 Proyectos destacados
 
-#### 📦 [Metric Mindset — Predicción de intención de compra (E-commerce)](https://github.com/lucasbottino9/Proyecto-Final-Henry)
+#### 📦 [Metric Mindset — Predicción de intención de compra (E-commerce)](https://github.com/Juanma-Alvarado/MetricMindset)
 Proyecto final del bootcamp de Henry (equipo de 4, rol: Data Scientist — modelado y feature engineering). Sobre 12.330 sesiones de usuario (dataset *Online Shoppers Purchasing Intention*, UCI), comparé 5 modelos de clasificación y optimicé el ganador (LightGBM) con Optuna. Apliqué SMOTE, `class_weight` y calibración sigmoide para corregir el desbalance de clases (84,5% / 15,5%), reduciendo el Brier Score en ~33%, y diseñé una segmentación en 3 niveles de intención de compra para priorizar cross-selling y retención.
 
 **Resultado:** ROC-AUC 0,938 · F1 0,690

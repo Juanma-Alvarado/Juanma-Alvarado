@@ -1,0 +1,80 @@
+<svg viewBox="0 0 680 500" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+<style>
+:root { --bg: #ffffff; --bg1: #f6f8fa; --border: #d0d7de; --text: #1f2328; --muted: #656d76; --tag-bg: #f6f8fa; --tag-border: #d0d7de; }
+@media (prefers-color-scheme: dark) {
+:root { --bg: #0d1117; --bg1: #161b22; --border: #30363d; --text: #e6edf3; --muted: #8b949e; --tag-bg: #161b22; --tag-border: #30363d; }
+}
+</style>
+
+<rect width="680" height="500" fill="var(--bg)"/>
+
+<!-- name + tagline -->
+<text x="32" y="44" font-size="13" font-weight="500" fill="var(--text)" letter-spacing="1.5">juan miguel alvarado</text>
+<text x="32" y="62" font-size="11" fill="var(--muted)" letter-spacing="0.5">data analyst &amp; science jr · python, sql, power bi &amp; machine learning</text>
+
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">SELECTED WORK</text>
+
+<!-- project grid -->
+<rect x="32" y="110" width="616" height="260" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="340" y1="110" x2="340" y2="370" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="32" y1="240" x2="648" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- CreditFlow -->
+<text x="48" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">CreditFlow</text>
+<text x="48" y="154" font-size="10" fill="var(--muted)">Pipeline MLOps end-to-end para predicción de</text>
+<text x="48" y="168" font-size="10" fill="var(--muted)">riesgo crediticio: Scikit-learn, FastAPI,</text>
+<text x="48" y="182" font-size="10" fill="var(--muted)">Streamlit, Docker, CI/CD y monitoreo de drift.</text>
+<rect x="48" y="196" width="78" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="87" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">scikit-learn</text>
+<rect x="132" y="196" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="159" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+<rect x="192" y="196" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="215" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+
+<!-- MetricMindset -->
+<text x="356" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">MetricMindset</text>
+<text x="356" y="154" font-size="10" fill="var(--muted)">ML end-to-end para e-commerce: predice la</text>
+<text x="356" y="168" font-size="10" fill="var(--muted)">intención de compra, genera scores de</text>
+<text x="356" y="182" font-size="10" fill="var(--muted)">conversión y activa estrategias de negocio.</text>
+<rect x="356" y="196" width="70" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="391" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="432" y="196" width="78" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="471" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">ml scoring</text>
+
+<!-- FootballTrack -->
+<text x="48" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">FootballTrack</text>
+<text x="48" y="284" font-size="10" fill="var(--muted)">Detecta y sigue jugadores + balón en un clip de</text>
+<text x="48" y="298" font-size="10" fill="var(--muted)">video, con stats simples: quién tiene el balón,</text>
+<text x="48" y="312" font-size="10" fill="var(--muted)">distancia recorrida.</text>
+<rect x="48" y="326" width="70" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="83" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="124" y="326" width="76" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="162" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">computer vision</text>
+
+<line x1="32" y1="390" x2="648" y2="390" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- stack -->
+<text x="32" y="410" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">STACK</text>
+
+<rect x="32" y="420" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="59" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="92" y="420" width="38" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="111" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">sql</text>
+<rect x="136" y="420" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="165" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">power bi</text>
+<rect x="200" y="420" width="78" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="239" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">scikit-learn</text>
+<rect x="284" y="420" width="62" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="315" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">pandas</text>
+<rect x="352" y="420" width="70" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="387" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">streamlit</text>
+<rect x="428" y="420" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="451" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+<rect x="480" y="420" width="30" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="495" y="432" font-size="9" fill="var(--muted)" text-anchor="middle">git</text>
+
+<line x1="32" y1="460" x2="648" y2="460" stroke="var(--border)" stroke-width="0.5"/>
+
+</svg>

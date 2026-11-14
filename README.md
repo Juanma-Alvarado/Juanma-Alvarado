@@ -4,11 +4,6 @@
 
 </div>
 
-<h1 align="left">¡Hola! Soy Juan Ma 👋</h1>
-<h3 align="left">Data Analyst Jr & Data Scientist Jr | Colombiano 🇨🇴</h3>
-
----
-
 ### 🧭 Sobre mí
 
 Soy junior en el mundo de los datos; sin embargo, estoy enfocado en traducir métricas técnicas complejas (como ROC-AUC o queries en SQL) en decisiones estratégicas de negocio. Combino mi formación como estudiante de Finanzas y Negocios Internacionales con el desarrollo de modelos predictivos de Machine Learning y pipelines de datos de punta a punta.
